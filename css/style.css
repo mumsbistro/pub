@@ -30,7 +30,7 @@ table {
 	border-spacing: 0;
 }
 #banner{
-    background: url(../img/banner-bg.jpg) no-repeat center top;
+    background: url(../img/03a.jpg) no-repeat center top;
     background-size: cover;
     min-height: 630px;
 }
@@ -488,7 +488,8 @@ table {
 .events-text, .footer .widget, .footer address {color: white;}
 address, .details-text p {color: white;}
 .details-text {border-right-color: limegreen;}
-#about img {border: 1px solid black; margin-top: 5px;}
+#about img.med {border:1px solid black; margin-top: 5px;}
+#about img.th {border:1px solid black; margin-top: 25px;}
 .sidenav a {color: limegreen; font-size: 20px;}
 a.muswell {color:limegreen; text-decoration: none;}
 a.muswell:hover {color:white; text-decoration: underline;}
