@@ -493,8 +493,8 @@ address, .details-text p {color: white;}
 .sidenav a {color: limegreen; font-size: 20px;}
 a.muswell {color:limegreen; text-decoration: none;}
 a.muswell:hover {color:white; text-decoration: underline;}
-
-
+#yoyo {margin:20px;}
+#yoyo a img {border:0px;}
 
 
 
